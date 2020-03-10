@@ -115,7 +115,7 @@ header {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background-color: #212121;
+  background-color: #21379c;
   color: #fff;
 }
 main {
@@ -162,7 +162,7 @@ button:hover {
   margin: 0px 15px;
   color: #fff;
   border-radius: 6px;
-  background-color: #cc2e5d;
+  background-color: #3660e9;
 }
 
 .next,
@@ -174,7 +174,7 @@ button:hover {
   color: #fff;
   border-radius: 6px;
 
-  background-color: #ff5858;
+  background-color: #3b9ff0;
 }
 .playlist {
   padding: 0px 30px;
@@ -195,10 +195,10 @@ button:hover {
   cursor: pointer;
 }
 .playlist .song:hover {
-  color: #ff5858;
+  color: #2023ca;
 }
 .playlist .song.playing {
   color: #fff;
-  background-image: linear-gradient(to right, #cc2e5d, #ff5858);
+  background-image: linear-gradient(to right, #2c29e2, #2061b4);
 }
 </style>
