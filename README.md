@@ -2,7 +2,7 @@
 
 This is a music playlist application made using VueJS!
 
-Enjoy
+Enjoy!
 
 ## Project setup
 
