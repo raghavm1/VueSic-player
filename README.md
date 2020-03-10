@@ -1,4 +1,4 @@
-# music-app
+# VueSic player
 
 This is a music playlist application made using VueJS!
 
